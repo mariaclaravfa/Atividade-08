@@ -38,7 +38,11 @@ body {
     background-color: rgb(236, 221, 221);
     padding: 20px;
     text-align: center;
-}
+    margin: 40px auto;
+    padding: 40px;
+    border: 5px solid #8b0000;
+    border-radius: 20px;
+}gg
 
 ul li a {
     display: inline-block;
